@@ -1,0 +1,42 @@
+
+body{
+    overflow-x: hidden;
+}
+.pa{
+    width: 100wh;
+    height: 100vh;
+    background-color: antiquewhite;
+    text-align: center;
+    line-height: 100vh;
+    color: cadetblue;
+    font-size: 30px;
+    background-image: url("pi.webp");
+}
+
+  .ssfd{
+    margin:400px ;
+    text-align: center;
+    transform: translateX(-1000px);
+    transition: 0.9s;
+    opacity: 0.3;
+  }
+
+  .ssfds{
+    margin:400px ;
+    text-align: center;
+    transform: translateX(1000px);
+    transition: 3s;
+    opacity: 0.3;
+  }
+  h1{
+    color: rgb(255, 255, 255);
+    font-size: 38px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  h2{
+    text-align: center;
+    margin:80px 0 10px 0 ;
+    font-size: 30px;
+    color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
